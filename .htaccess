@@ -1,2 +1,2 @@
 Redirect 301 /bot https://discordapp.com/oauth2/authorize?client_id=620126394390675466&permissions=536931392&scope=bot
-Redirect 301 /invite https://discordapp.com/invite/BueAxTB
+Redirect 301 /server https://discordapp.com/invite/BueAxTB
