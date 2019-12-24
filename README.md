@@ -1,1 +1,1 @@
-# Primary Repo to house the trellobox.xyz website.
+# Primary Repo to house the trellobot.xyz website.
